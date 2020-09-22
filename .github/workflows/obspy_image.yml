@@ -7,7 +7,7 @@ on:
       - 'obspy/Dockerfile'
 
 env:
-  DOCKER_REPO: sgylab/obspy
+  DOCKER_REPO: mars9220/obspy
   DOCKER_FILE: obspy/Dockerfile
 
 jobs:
